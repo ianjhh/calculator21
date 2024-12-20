@@ -1,0 +1,27 @@
+<div class="pseudorow">
+    <label for="compound">Compound:</label>
+    <select name="compound" id="compound">
+        <option value="daily">Daily</option>
+        <option value="weekly">Weekly</option>
+        <option value="biweekly">Bi-weekly (Every 2 weeks)</option>
+        <option value="monthly">Monthly</option>
+        <option value="quarterly">Quarterly (Every 3 months)</option>
+        <option value="semiannually">Semi-annually (Every 6 months)</option>
+        <option value="annually">Annually</option>
+    </select>
+    </div>
+    
+    <br>
+    
+    <div class="pseudorow">
+    <label for="payfreq">Payment:</label>
+    <select name="payfreq" id="payfreq">
+        <option value="daily">Daily</option>
+        <option value="weekly">Weekly</option>
+        <option value="biweekly">Bi-weekly (Every 2 weeks)</option>
+        <option value="monthly">Monthly</option>
+        <option value="quarterly">Quarterly (Every 3 months)</option>
+        <option value="semiannually">Semi-annually (Every 6 months)</option>
+        <option value="annually">Annually</option>
+    </select>
+    </div>

@@ -1,0 +1,4 @@
+questions to ask people:
+
+1. Should i add all calculators to nav menu?
+2. Single list or double list for calculator list
