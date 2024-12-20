@@ -1,0 +1,34 @@
+Ideas for calculoan
+
+* Add info pages about country information, living cost perhaps, 
+  house prices? Add sources for credibility
+* Credit score calculator → link to  
+  https://www.wellsfargo.com/financial-education/credit-management/calculate-credit-score/
+* Check top countries of loan calculator visitors in similarweb and add currency accordingly based 
+  on ranking
+
+ESSENTIAL FEATURES:
+1. SET THE CALCULATION OPTION AS SIDEBAR ON THE LEFT SUCH AS W3SCHOOLS
+2. THE TOP NAVBAR IS FOR OTHER FEATURES BESIDES CALCULATOR, SO BASICALLY ALL RELATED THINGS ARE 
+SHOWN ON SIDEBAR WHILE UNRELATED THINGS ARE SHOWN ON NAVBAR
+
+Types of calculator:
+
+1. Loan calculator – There is 3 types: Amortized loan, Deferred payment loan and Bond
+
+2. metric to imperial (temperature, yard, foot, all the units)
+
+3. water units, ml to kg etc
+
+4. physics units: pascal to...
+
+5. math
+
+6. 
+
+
+
+
+GOOGLE WEBMASTER FOR SEO:
+
+https://search.google.com/search-console/about?hl=en

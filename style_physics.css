@@ -1,0 +1,76 @@
+article h1{
+	display: block;
+	margin: auto;
+	margin-top: 1.5em;
+	margin-bottom: 0.8em;
+	font-size: 2em;
+	background-color: #00008B;
+	color: white;
+	padding: 0.5em;
+	width: 9.4em;
+}
+
+article ul{
+	padding: 0;
+}
+
+.list_area{
+	display: grid;
+	grid-template-columns: 220px 220px;
+	grid-column-gap: 4vw;
+	margin-left: 15vw;
+}
+
+article .list_area + p{
+	margin-left: 1vw;
+	margin-right: 1.4vw;
+	font-size: 1.1em;
+	background-color: #FFF0F5;
+	padding: 1em;
+	border-radius: 15px;
+}
+
+article .list_area + p a:hover{
+	color: red;
+}
+
+article ul{
+	padding: 0;
+}
+
+article ul li{
+	font-size: 0.9em;
+	color: #00008B;
+	font-weight: 500;
+	list-style-type: none;
+	margin-bottom: 2px;
+}
+
+.list1{
+	grid-column: 1;
+}
+
+.list2{
+	grid-column: 2;
+}
+
+@media screen and (max-width: 493px){
+
+	.list_area{
+		margin-left: -1.7vw;
+		display: grid;
+		grid-template-columns: 1fr 1fr;
+		width: 95vw;
+	}
+
+	article h1{
+		width: 80vw;
+		margin-left: 0;
+	}
+}
+
+@media screen and (min-width: 493px) and (max-width: 630px){
+	.list_area{
+		margin-left: 2vw;
+	}
+}
