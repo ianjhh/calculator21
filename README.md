@@ -40,7 +40,7 @@ Calculator21 is a multi-page calculator website: loans and mortgages, interest a
 | Pages | Semantic HTML5, one page per calculator |
 | Styling | CSS3 with CSS Grid and media queries, a shared layout stylesheet plus one per page |
 | Logic | Vanilla JavaScript (about 4,400 lines), no dependencies |
-| Analytics & ads | Google Analytics 4, Google AdSense |
+| Analytics | Google Analytics 4 |
 
 ## Technical highlights
 
@@ -75,8 +75,7 @@ calculator21/
 ├── docs/
 │   ├── images/     # README screenshot
 │   └── notes/      # development notes
-├── sitemap.xml
-└── ads.txt         # AdSense publisher record, must stay at the root
+└── sitemap.xml
 ```
 
 ## Author
